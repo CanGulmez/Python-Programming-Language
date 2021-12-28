@@ -1,0 +1,16 @@
+Examples
+Python is the most popular 
+Apple is great fruit 
+Bananas are yellow 
+Beetroot is healhty 
+Mushroom is small vegetables
+Python is the most popular 
+Apple is great fruit 
+Bananas are yellow 
+Beetroot is healhty 
+Mushroom is small vegetables
+Python is the most popular language 
+Apple is great fruit 
+Bananas are yellow 
+Beetroot is healhty 
+Mushroom is small vegetables
